@@ -2,6 +2,12 @@
 
 ###
 
+<p align="left">
+🎯 Passionate about building responsive and user-friendly web applications using Angular and .NET. I focus on writing clean, maintainable code and continuously improving my skills through hands-on projects and real-world experiences.
+</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HamzaAshraf16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HamzaAshraf16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
@@ -9,7 +15,15 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<div align="left">
+  <h3>🚀 Projects:</h3>
+  <ul>
+    <li><b>🎓 Educational Center Management Web App</b> (Angular, .NET)<br />Designed a responsive dashboard for managing courses and student bookings.</li>
+    <li><b>🦷 Dental Clinic Management System</b> (Angular, .NET)<br />Implemented an appointment booking system with real-time updates and a clean dashboard UI.</li>
+    <li><b>🏘 Real Estate Desktop Application</b> (C#, Entity Framework, LINQ)<br />Built a Windows Forms app to manage properties, clients, and contracts efficiently.</li>
+    <li><b>🛒 E-commerce Website</b> (HTML, CSS, JS)<br />Developed a frontend-only shopping site with cart logic using local storage.</li>
+  </ul>
+</div>
 
 ###
 
@@ -54,4 +68,6 @@
 ###
 
 <br clear="both" />
+
+<img src="https://raw.githubusercontent.com/HamzaAshraf16/HamzaAshraf16/output/snake.svg" alt="Snake animation" />
 
