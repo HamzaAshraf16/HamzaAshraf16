@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! My name is Hamza Ashraf and I'm a Junior Full Stack Developer from Cairo, Egypt</h2>
+<h2 align="left">Hi 👋! My name is Hamza Ashraf and I'm a Frontend Engineer | Angular Developer from Cairo, Egypt</h2>
 
 ###
 
 <p align="left">
-🎯 Passionate about building responsive and user-friendly web applications using Angular and .NET. I focus on writing clean, maintainable code and continuously improving my skills through hands-on projects and real-world experiences.
+Angular developer with 2+ years building production web applications for real clients across sales, training, and clinic management domains. Promoted from intern to instructor at ITI within the same cycle based on top technical performance — now delivering Angular curriculum to 20+ students. Skilled in RxJS, reactive forms, REST API integration, and packaging web apps as cross-platform desktop tools with Electron.
 </p>
 
 ###
@@ -16,13 +16,54 @@
 ###
 
 <div align="left">
-  <h3>🚀 Projects:</h3>
-  <ul>
-    <li><b>🎓 Educational Center Management Web App</b> (Angular, .NET)<br />Designed a responsive dashboard for managing courses and student bookings.</li>
-    <li><b>🦷 Dental Clinic Management System</b> (Angular, .NET)<br />Implemented an appointment booking system with real-time updates and a clean dashboard UI.</li>
-    <li><b>🏘 Real Estate Desktop Application</b> (C#, Entity Framework, LINQ)<br />Built a Windows Forms app to manage properties, clients, and contracts efficiently.</li>
-    <li><b>🛒 E-commerce Website</b> (HTML, CSS, JS)<br />Developed a frontend-only shopping site with cart logic using local storage.</li>
-  </ul>
+ <h3>🚀 Projects</h3>
+
+<table>
+  <tr>
+    <td>
+      <h4>📊 Sales & Purchase Management Dashboard</h4>
+      <p><b>Angular 18 · RxJS · Chart.js · Electron · REST API</b></p>
+      <ul>
+        <li>Built a full-featured business dashboard with real-time analytics for a trading company.</li>
+        <li>Cut manual reporting effort by ~60% through automated data flow and dynamic Chart.js charts.</li>
+        <li>Packaged as a cross-platform desktop app using Electron for local server deployment.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🎓 Training Center Management System</h4>
+      <p><b>Angular · ASP.NET Core · Entity Framework Core · JWT · SQL Server</b></p>
+      <ul>
+        <li>Full-stack web app managing courses, students, and instructors for a real training business.</li>
+        <li>Secured with JWT authentication and role-based access control (Admin / User).</li>
+        <li>Optimised EF Core queries with eager loading and indexing — reduced API response time under load.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🦷 Dental Clinic Management System <em>(ITI Graduation Project — Graded Excellent ⭐)</em></h4>
+      <p><b>Angular · ASP.NET Core · JWT · ASP.NET Identity · SQL Server</b></p>
+      <ul>
+        <li>End-to-end clinic management system handling patients, doctors, appointments, and operations.</li>
+        <li>Implemented 3-role access control: Doctor, Secretary, and Patient — each with distinct UI logic.</li>
+        <li>Delivered 15+ reusable Angular components connected to RESTful APIs.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🛒 E-Commerce Platform <em>(Multi-role)</em></h4>
+      <p><b>Angular · REST API · Lazy Loading</b></p>
+      <ul>
+        <li>Full e-commerce frontend with product listing, cart, checkout, and third-party API integration.</li>
+        <li>Applied Angular lazy loading — reduced initial bundle size significantly.</li>
+        <li>Supports Customer, Admin, and Vendor roles with role-specific dashboards and access control.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 </div>
 
 ###
